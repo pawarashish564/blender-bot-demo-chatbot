@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src=".github/logo.jpg" height ="100"/>
+  <img src=".github/logo.png" height ="100"/>
 
 Blenderbot Demo Chat Bot
 </h1>
